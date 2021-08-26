@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Тестирование OPEN.RU">
+    <test name="UI тестирование">
+        <classes>
+            <class name="ru.open.Tests"/>
+        </classes>
+    </test>
+</suite>
